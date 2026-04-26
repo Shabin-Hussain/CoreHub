@@ -48,6 +48,7 @@
     padding: 12px 5px;
     margin-top: 5px;
     background-color: rgb(13, 17, 23);
+    color: white;
 }
 .pswd{
     display: flex;
